@@ -4,7 +4,7 @@
   "description": "this is our assignment",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "cls && node server.mjs"
+    "start": "node server.mjs"
   },
   "repository": {
     "type": "git",
